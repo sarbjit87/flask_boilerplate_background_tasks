@@ -18,7 +18,7 @@ RQ-Dashboard is integrated into the app and can be accessed at 127.0.0.1:5000/rq
 
 **Setup**
 
-`git clone https://github.com/sarbjit87/flask_boilerplate.git`
+`git clone https://github.com/sarbjit87/flask_boilerplate_background_tasks.git`
 
 `pip install -r requirements.txt`
 
